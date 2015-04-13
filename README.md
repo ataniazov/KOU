@@ -1,2 +1,2 @@
 # KOU
-Kocaeli University Projects &amp; Programs. Test
+Kocaeli University Projects &amp; Programs
