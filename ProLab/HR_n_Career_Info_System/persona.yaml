@@ -1,0 +1,257 @@
+# 6 6
+---
+id: 1
+name: Ali_Kaya
+address: Istanbul
+phone: 5321234567
+email: akaya@gmail.com
+dob: 1985
+lingo: ;ingilizce;fransizca;
+driver: ;A2;B;
+edu_status:
+	edu_value: 10
+	edu_name: Galatasaray_Lisesi
+	degree: Lise
+	department: Sayisal
+	started: 1999
+	graduated: 2003
+	average: 82
+edu_status:
+	edu_value: 20
+	edu_name: Yildiz_Teknik_Universitesi
+	degree: Lisans
+	department: Bilgisayar_Muh
+	started: 2004
+	graduated: 2009
+	average: 80
+edu_status:
+	edu_value: 30
+	edu_name: Yildiz_Teknik_Universitesi
+	degree: Yuksek_Lisans
+	department: Bilgisayar_Muh
+	started: 2010
+	graduated: 2013
+	average: 95
+edu_status:
+	edu_value: 40
+	edu_name: Bogazici_Universitesi
+	degree: Doktora
+	department: Bilgisayar_Muh
+	started: 2013
+	graduated: -1
+	average: -1
+work_exper:
+	work_name: Burger_King
+	work_address: Istanbul
+	position: Vardiya_Muduru
+	duration: 2.0
+work_exper:
+	work_name: Armada_Bilgisayar
+	work_address: Istanbul
+	position: Yazilim_Uzmani
+	duration: 1.0
+work_exper:
+	work_name: Comodo_Yazilim_AS
+	work_address: Ankara
+	position: Front_End_Developer
+	duration: 0.5
+work_exper:
+	work_name: Destek_Group
+	work_address: Istanbul,Ankara
+	position: Bilgisayar_Muh
+	duration: 2.0
+work_exper:
+	work_name: Otokar
+	work_address: Kocaeli
+	position: Network_ve_Guvenlik_Muhendisi
+	duration: 1.5
+work_exper:
+	work_name: Vodafone
+	work_address: Istanbul
+	position: Mediation_Solutions_Senior_Specialist
+	duration: 1.5
+...
+---
+id: 2
+name: Mehmet_Saglam
+address: Kocaeli
+phone: 5051234567
+email: msaglam@hotmail.com
+dob: 1990
+lingo: ;
+driver: ;B;
+edu_status:
+	edu_value: 10
+	edu_name: Isparta_Anadolu_Lisesi
+	degree: Lise
+	department: Sayisal
+	started: 2005
+	graduated: 2009
+	average: 92
+edu_status:
+	edu_value: 20
+	edu_name: Kocaeli_Universitesi
+	degree: Lisans
+	department: Bilgisayar_Muh
+	started: 2010
+	graduated: 2015
+	average: 75
+...
+---
+id: 3
+name: Asli_Yel
+address: Trabzon
+phone: 5421234567
+email: ayel@yahoo.com
+dob: 1970
+lingo: ;ingilizce;
+driver: ;
+edu_status:
+	edu_value: 10
+	edu_name: Of_Kiz_Meslek_Lisesi
+	degree: Lise
+	department: Elektrik
+	started: 1985
+	graduated: 1990
+	average: 79
+edu_status:
+	edu_value: 20
+	edu_name: Orta_Dogu_Teknik_Universitesi
+	degree: Lisans
+	department: Elektrik-Elektronik_Muhendisligi
+	started: 1992
+	graduated: 1996
+	average: 80
+work_exper:
+	work_name: Turk_Telekom
+	work_address: Trabzon
+	position: Muhendis
+	duration: 10.0
+work_exper:
+	work_name: Turk_Telekom
+	work_address: Ankara
+	position: Mudur
+	duration: 14.0
+...
+---
+id: 4
+name: Neriman_Koc
+address: Ankara
+phone: 5331234567
+email: nkoca@ymail.com
+dob: 1988
+lingo: ;almanca;
+driver: ;E;
+edu_status:
+	edu_value: 10
+	edu_name: Ankara_Anadolu_Ogretmen_Lisesi
+	degree: Lise
+	department: Sayisal
+	started: 2002
+	graduated: 2005
+	average: 90
+edu_status:
+	edu_value: 20
+	edu_name: Ege_Universitesi
+	degree: Lisans
+	department: Elektronik_Haberlesme_Muh
+	started: 2005
+	graduated: 2010
+	average: 70
+edu_status:
+	edu_value: 30
+	edu_name: Ege_Universitesi
+	degree: Yuksek_Lisans
+	department: Elektronik_Haberlesme_Muh
+	started: 2011
+	graduated: -1
+	average: -1
+work_exper:
+	work_name: Ege_Uni_Elektronik_Haberlesme
+	work_address: Izmir
+	position: Arastirma_Gorevlisi
+	duration: 3.0
+...
+---
+id: 5
+name: Ahmet_Sari
+address: Manisa
+phone: 5071234567
+email: asari@gmail.com
+dob: 1989
+lingo: ;ingilizce;almanca;arapca;
+driver: ;B;
+edu_status:
+	edu_value: 10
+	edu_name: Manisa_Lisesi
+	degree: Lise
+	department: Sayisal
+	started: 2003
+	graduated: 2006
+	average: 70
+edu_status:
+	edu_value: 15
+	edu_name: Yalvac_MYO
+	degree: Yuksek_Okul
+	department: Bilgisayar_Programciligi
+	started: 2006
+	graduated: 2008
+	average: 95
+edu_status:
+	edu_value: 20
+	edu_name: Selcuk_Universitesi
+	degree: Lisans
+	department: Matematik_Bilgisayar
+	started: 2009
+	graduated: 2012
+	average: 90
+edu_status:
+	edu_value: 30
+	edu_name: Gazi_Universitesi
+	degree: Yuksek_Lisans
+	department: Bilgisayar_Muh
+	started: 2012
+	graduated: 2015
+	average: 92
+work_exper:
+	work_name: AG_Software
+	work_address: Konya
+	position: Programci
+	duration: 2.0
+work_exper:
+	work_name: Randstad_Professionals
+	work_address: Ankara
+	position: Firmware_Engineer
+	duration: 2.0
+...
+---
+id: 6
+name: Selim_Mert
+address: Istanbul
+phone: 5061234567
+email: smert@gmail.com
+dob: 1985
+lingo: ;
+driver: ;B;
+edu_status:
+	edu_value: 10
+	edu_name: Corum_Lisesi
+	degree: Lise
+	department: Sayisal
+	started: 1999
+	graduated: 2002
+	average: 80
+edu_status:
+	edu_value: 20
+	edu_name: Marmara_Universitesi
+	degree: Lisans
+	department: Elektronik_Muhendisligi
+	started: 2004
+	graduated: 2010
+	average: 77
+work_exper:
+	work_name: KAREL
+	work_address: Istanbul
+	position: Gomulu_Yazilim_Muhendisi
+	duration: 5.0
+...

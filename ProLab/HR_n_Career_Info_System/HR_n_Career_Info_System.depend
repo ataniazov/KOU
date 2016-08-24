@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1452120518 source:/home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/hr_management.c
+	"headfirst.h"
+
+1452351592 /home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/headfirst.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<stdbool.h>
+
+1452354740 source:/home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/job_application.c
+	"headfirst.h"
+
+1452351999 source:/home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/main.c
+	"headfirst.h"
+
+1451964191 source:/home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/persona.c
+	"headfirst.h"
+
+1451976308 source:/home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/spider.c
+	"headfirst.h"
+
+1452118685 source:/home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/data_art.c
+	"headfirst.h"
+	"data_art.h"
+
+1452118711 /home/delta/Downloads/ProLab_2_Bilgilendirme/Sunum/ProLab_2/HR_n_Career_Info_System/data_art.h
+
