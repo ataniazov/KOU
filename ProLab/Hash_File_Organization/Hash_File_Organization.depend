@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1463422312 source:/home/delta/git/bitbucket/prolab_4/Hash_File_Organization/main.cpp
+	"main.h"
+	"persona.h"
+
+1463422781 source:/home/delta/git/bitbucket/prolab_4/Hash_File_Organization/persona.cpp
+	"main.h"
+	"persona.h"
+
+1463420355 /home/delta/git/bitbucket/prolab_4/Hash_File_Organization/persona.h
+	<iomanip>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstring>
+	<ctime>
+
+1463419460 source:/home/delta/git/bitbucket/prolab_4/Hash_File_Organization/artwork.cpp
+	"main.h"
+
+1463419460 /home/delta/git/bitbucket/prolab_4/Hash_File_Organization/main.h
+	<iostream>
+
+1463419460 source:/home/delta/git/testing/bitbucket/prolab_4/Hash_File_Organization/artwork.cpp
+	"main.h"
+
+1463419460 /home/delta/git/testing/bitbucket/prolab_4/Hash_File_Organization/main.h
+	<iostream>
+
+1463450398 source:/home/delta/git/testing/bitbucket/prolab_4/Hash_File_Organization/main.cpp
+	"main.h"
+	"persona.h"
+
+1463450523 /home/delta/git/testing/bitbucket/prolab_4/Hash_File_Organization/persona.h
+	<iomanip>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<cstring>
+	<ctime>
+
+1463452058 source:/home/delta/git/testing/bitbucket/prolab_4/Hash_File_Organization/persona.cpp
+	"main.h"
+	"persona.h"
+
+1463654093 source:/home/delta/git/bitbucket/prolab_4v2/Hash_File_Organization/artwork.cpp
+	"main.h"
+	"artwork.h"
+
+1463652574 /home/delta/git/bitbucket/prolab_4v2/Hash_File_Organization/main.h
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1463654314 source:/home/delta/git/bitbucket/prolab_4v2/Hash_File_Organization/main.cpp
+	"main.h"
+	"persona.h"
+	"artwork.h"
+
+1463650274 /home/delta/git/bitbucket/prolab_4v2/Hash_File_Organization/persona.h
+	<fstream>
+	<algorithm>
+	<cstring>
+	<ctime>
+
+1463649991 source:/home/delta/git/bitbucket/prolab_4v2/Hash_File_Organization/persona.cpp
+	"main.h"
+	"persona.h"
+
+1463653162 /home/delta/git/bitbucket/prolab_4v2/Hash_File_Organization/artwork.h
+
