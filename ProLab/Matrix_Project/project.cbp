@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../../Prolab_1/allegro-5.0.10-mingw-4.7.0/include" />
+					<Add directory="allegro-5.0.10-mingw-4.7.0/include" />
+					<Add directory="allegro-5.0.10-mingw-4.7.0/lib" />
+					<Add directory="allegro-5.0.10-mingw-4.7.0/bin" />
+					<Add directory="allegro-5.0.10-mingw-4.7.0/lib-extra" />
+				</Compiler>
+				<Linker>
+					<Add option="-static-libgcc" />
+					<Add option="-static-libstdc++" />
+					<Add library="C:\MinGW\lib\liballegro-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro-5.0.10-monolith-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_ttf-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_primitives-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_physfs-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_memfile-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_image-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_font-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_dialog-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_color-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_audio-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\liballegro_acodec-5.0.10-static-mt.a" />
+					<Add library="C:\MinGW\lib\libzlib-1.2.5-static-mt.a" />
+					<Add library="C:\MinGW\lib\libvorbisfile-1.3.2-static-mt.a" />
+					<Add library="C:\MinGW\lib\libvorbis-1.3.2-static-mt.a" />
+					<Add library="C:\MinGW\lib\libopenal-1.14-static-mt.a" />
+					<Add library="C:\MinGW\lib\libogg-1.2.1-static-mt.a" />
+					<Add library="C:\MinGW\lib\libfreetype-2.4.8-static-mt.a" />
+					<Add library="C:\MinGW\lib\libFLAC-1.2.1-static-mt.a" />
+					<Add library="C:\MinGW\lib\libdumb-0.9.3-static-mt.a" />
+					<Add library="C:\MinGW\lib\libgdiplus.a" />
+					<Add library="C:\MinGW\lib\libuuid.a" />
+					<Add library="C:\MinGW\lib\libkernel32.a" />
+					<Add library="C:\MinGW\lib\libwinmm.a" />
+					<Add library="C:\MinGW\lib\libopengl32.a" />
+					<Add library="C:\MinGW\lib\libglu32.a" />
+					<Add library="C:\MinGW\lib\libuser32.a" />
+					<Add library="C:\MinGW\lib\libcomdlg32.a" />
+					<Add library="C:\MinGW\lib\libgdi32.a" />
+					<Add library="C:\MinGW\lib\libshell32.a" />
+					<Add library="C:\MinGW\lib\libole32.a" />
+					<Add library="C:\MinGW\lib\libadvapi32.a" />
+					<Add library="C:\MinGW\lib\libws2_32.a" />
+					<Add library="C:\MinGW\lib\libshlwapi.a" />
+					<Add library="C:\MinGW\lib\libpsapi.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="artwork.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="artwork.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="headfirst.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrixoper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="userinput.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
