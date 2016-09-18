@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431672209 source:d:\sinav\lab71\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

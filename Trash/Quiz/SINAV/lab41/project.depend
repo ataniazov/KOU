@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1428044829 source:d:\sinav\lab41\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"main_begin.h"
+	"main_end.h"
+
+1428016342 d:\sinav\lab41\main_begin.h
+	<stdio.h>
+
+1428016342 d:\sinav\lab41\main_end.h
+	<unistd.h>
+	<signal.h>
+

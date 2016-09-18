@@ -1,0 +1,25 @@
+bu
+bu kelimesindeki harf sayisi=2
+
+cumle
+cumle kelimesindeki harf sayisi=5
+
+ornek
+ornek kelimesindeki harf sayisi=5
+
+amacli
+amacli kelimesindeki harf sayisi=6
+
+yazilmistir
+yazilmistir kelimesindeki harf sayisi=11
+
+ancak
+ancak kelimesindeki harf sayisi=5
+
+isleme
+isleme kelimesindeki harf sayisi=6
+
+alinabilir
+alinabilir kelimesindeki harf sayisi=10
+
+cumledeki toplam kelime sayisi=8

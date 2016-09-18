@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428648544 source:d:\sinav\lab51\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
