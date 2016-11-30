@@ -1,0 +1,10 @@
+.dropdown-menu {
+    background: #2C3E50;
+}
+a:hover {
+    color: #18BC9C;
+    background-color: #e7e7e7;
+}
+.carousel-inner .item a img, .carousel-inner .item img {
+    width: 100% !important;
+}
